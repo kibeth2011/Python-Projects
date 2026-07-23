@@ -82,7 +82,7 @@ Average malaria incidence declined steadily between 2000 and 2024, although prog
 ### Insight
 Countries such as Guinea-Bissau, Burkina Faso, and Ghana achieved the largest reductions in malaria incidence between the study period, suggesting successful malaria control efforts.
 
-### Research Question 7: How does Kenya compare with Uganda, Tanzania, Rwanda and Ethiopia?
+### Research Question 7: How do malaria incidence trends in Kenya compare with those of Uganda, Tanzania, Rwanda, and Ethiopia?
 ### Visualization
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/east_africa_comparison.png)
 
@@ -91,7 +91,7 @@ Kenya recorded one of the lowest malaria incidence rates among the selected East
 
 ### Research Question 8: Which years showed the greatest improvement in malaria incidence?
 ### Visualization
-![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/greatest_reduction_malaria.png)
+![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/top_yearly_improvements.png)
 
 ### Insight
 The greatest improvement occurred in 2003, when average malaria incidence decreased by 13.3 cases per 1,000 population at risk compared with 2002. Most of the largest reductions occurred during the early 2000s, indicating that malaria control efforts were most effective during that period, although notable improvements were also observed in 2021.
