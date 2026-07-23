@@ -13,12 +13,12 @@ The project answers the following questions:
 4. Which African countries have the highest malaria incidence?
 5. How has malaria incidence changed over time?
 6. Which African countries achieved the largest reduction in malaria incidence?
-7. How does Kenya compare with Uganda, Tanzania, Rwanda, and Ethiopia?
+7. How do malaria incidence trends in Kenya compare with those of Uganda, Tanzania, Rwanda, and Ethiopia?
 8. Which years showed the greatest improvement in malaria incidence?
 
 ## Dataset
 ### Source: World Health Organization (WHO)
-<a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/malaria-incidence-(per-1-000-population-at-risk)>Estimated malaria incidence (per 1000 population at risk)</a>
+<a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/malaria-incidence-(per-1-000-population-at-risk)">Estimated malaria incidence (per 1000 population at risk)</a>
 
 ## Tools Used
 - Python
@@ -40,65 +40,57 @@ This project demonstrates the following data analytics skills:
 - GitHub Project Documentation
 
 ## Analysis and Findings
-### Research Question 1
-### How many African countries are represented in the dataset?
-Code snippet
+### Research Question 1: How many African countries are represented in the dataset?
+### Code snippet
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/Research%20Question%201.PNG)
 
 ### Insight
 The dataset includes 46 African countries, providing broad coverage for analyzing malaria incidence across the continent.
 
-### Research Question 2
-### What time period does the dataset cover?
-Code snippet
+### Research Question 2: What time period does the dataset cover?
+### Code snippet
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/Research%20Question%202.PNG)
 
 ### Insight
 The dataset spans 2000–2024, covering 25 years of malaria incidence data and enabling long-term trend analysis.
 
-### Research Question 3
-### What is the distribution of malaria incidence across Africa?
-Code snippet
+### Research Question 3: What is the distribution of malaria incidence across Africa?
+### Code snippet
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/Research%20Question%203.PNG)
 
 ### Insight
 Malaria incidence varies considerably across African countries, indicating substantial differences in disease burden and control outcomes.
 
-### Research Question 4
-### Which African countries had the highest malaria incidence in 2024?
-Visualization
+### Research Question 4: Which African countries had the highest malaria incidence in 2024?
+### Visualization
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/top10_malaria_incidence_2024.png)
 
 ### Insight
 In 2024, Benin recorded the highest estimated malaria incidence (354.3 cases per 1,000 population at risk), closely followed by Burkina Faso (353.5) and Mali (346.2). The top 10 countries are concentrated in West and Central Africa, indicating that these regions continue to experience the highest malaria burden.
 
-### Research Question 5
-### How has malaria incidence changed across Africa between 2000 and 2024?
-Visualization
+### Research Question 5: How has malaria incidence changed across Africa between 2000 and 2024?
+### Visualization
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/africa_malaria_trend_2000_2024.png)
 
 ### Insight
 Average malaria incidence declined steadily between 2000 and 2024, although progress slowed during some years. The highlighted section represents the COVID-19 period, when improvements became less consistent.
 
-### Research Question 6
-### Which African countries achieved the greatest reduction in malaria incidence between 2000 and 2024?
-Visualization
+### Research Question 6: Which African countries achieved the greatest reduction in malaria incidence between 2000 and 2024?
+### Visualization
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/greatest_reduction_malaria.png)
 
 ### Insight
 Countries such as Guinea-Bissau, Burkina Faso, and Ghana achieved the largest reductions in malaria incidence between the study period, suggesting successful malaria control efforts.
 
-### Research Question 7
-### How does Kenya compare with Uganda, Tanzania, Rwanda and Ethiopia?
-Visualization
+### Research Question 7: How does Kenya compare with Uganda, Tanzania, Rwanda and Ethiopia?
+### Visualization
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/east_africa_comparison.png)
 
 ### Insight
 Kenya recorded one of the lowest malaria incidence rates among the selected East African countries by 2024. Uganda consistently had the highest incidence throughout the study period, while Ethiopia and Tanzania showed steady declines. Rwanda experienced a temporary spike between 2014 and 2018 before declining again.
 
-### Research Question 8
-### Which years showed the greatest improvement in malaria incidence?
-Visualization
+### Research Question 8: Which years showed the greatest improvement in malaria incidence?
+### Visualization
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Malaria%20Trends%20in%20Africa/Images%20and%20Screenshots/greatest_reduction_malaria.png)
 
 ### Insight
