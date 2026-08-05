@@ -112,7 +112,7 @@ Kibet Hillary
 
 BSc Applied Statistics, with IT (Second Class Honours, Upper Division)
 
-Aspiring Data Analyst/Scientist
+Data Analyst
 
 Email: kibeth2011@gmail.com
 
