@@ -23,12 +23,12 @@ The objectives of this project are to:
 This project combines four publicly available datasets.
 
 ### Source: Oxford Insights
-1. <a href="https://oxfordinsights.com/ai-readiness/government-ai-readiness-index-2024">Government AI Readiness Index (2024)</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/2024-GAIRI-data.xlsx">Downloaded GAIRI(2024)</a>
+1. <a href="https://oxfordinsights.com/ai-readiness/government-ai-readiness-index-2024">Government AI Readiness Index (2024)</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/2024-GAIRI-data.xlsx">GAIRI(2024) Data Copy</a>
 
 ### Source: World Health Organization (WHO)
-2. <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">GDP per capita (current US$)</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/API_NY.GDP.PCAP.CD_DS2_en_excel_v2_33108.xls">Downloaded GDP</a>
-3. <a href="https://data.worldbank.org/indicator/IT.NET.USER.ZS">ndividuals using the Internet (% of population)</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/API_IT.NET.USER.ZS_DS2_en_excel_v2_33090.xls">Downloaded Internet</a>
-4. <a href="https://data.worldbank.org/indicator/SP.POP.TOTL">Population, total</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/API_SP.POP.TOTL_DS2_en_excel_v2_33073.xls">Downloaded Population</a>
+2. <a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD">GDP per capita (current US$)</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/API_NY.GDP.PCAP.CD_DS2_en_excel_v2_33108.xls">GDP Data Copy</a>
+3. <a href="https://data.worldbank.org/indicator/IT.NET.USER.ZS">ndividuals using the Internet (% of population)</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/API_IT.NET.USER.ZS_DS2_en_excel_v2_33090.xls">Internet Data Copy</a>
+4. <a href="https://data.worldbank.org/indicator/SP.POP.TOTL">Population, total</a> or <a href="https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Data/API_SP.POP.TOTL_DS2_en_excel_v2_33073.xls">Population Data Copy</a>
 
 ## Tools Used
 - Python
@@ -130,6 +130,8 @@ Data Analyst
 Email: kibeth2011@gmail.com
 
 <a href="https://github.com/kibeth2011">GitHub</a>
+
+<a href="https://www.linkedin.com/in/kibet-hillary-4654507b/">LinkedIn</a>
 
 
 
