@@ -74,7 +74,7 @@ The merged dataset was analyzed using descriptive statistics, correlation analys
 ![Reload Image](https://github.com/kibeth2011/Python-Projects/blob/main/Global%20AI%20Adoption%20and%20Readiness/Images%20and%20Screenshots/top10_ai_readiness.png)
 
 ### Insight
-The analysis shows that the United States ranked first globally, followed by Singapore, the Republic of Korea, France, and the United Kingdom. These countries recorded the highest AI Readiness scores in 2024, reflecting strong preparedness for AI adoption.
+The analysis shows that the United States ranked first globally, followed by Singapore, Korea, Rep., France, and the United Kingdom. These countries recorded the highest AI Readiness scores in 2024, reflecting strong preparedness for AI adoption.
 
 ### Research Question 2: What is the relationship between GDP per capita and AI Readiness?
 ### Visualization
